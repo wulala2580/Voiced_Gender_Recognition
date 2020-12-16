@@ -13,3 +13,9 @@ Train The Model
 In order to train your own model, you should first have your labeled data, and place them separately in ```TrainingData/females``` and  ```TrainingData/males```, and then run the code
 
     python CNNCode/ModelsTrainer.py
+
+Install the environment
+-------
+To install the packages corresponding to this project, your can run the following code first:
+
+    pip install -r requirements.txt
